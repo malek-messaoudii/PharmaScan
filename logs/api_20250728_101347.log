@@ -1,0 +1,24 @@
+2025-07-28 10:13:50,844 - INFO - Scanner thread started
+2025-07-28 10:13:50,974 - INFO - MQTT thread started
+2025-07-28 10:13:51,004 - INFO - MQTT client started successfully
+2025-07-28 10:13:51,014 - ERROR - MQTT client failed to connect
+2025-07-28 10:13:51,057 - INFO - Connected to MQTT broker successfully
+2025-07-28 10:13:51,057 - INFO - Connected to MQTT broker
+2025-07-28 10:13:55,396 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-28 10:13:55,404 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-28 10:13:56,548 - INFO - Quantity 8 stored in Firebase
+2025-07-28 10:13:56,548 - INFO - Detection started for expectedCount=8
+2025-07-28 10:13:56,747 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-28 10:13:56,749 - INFO - Started detection for 8 medicine boxes
+2025-07-28 10:14:01,372 - INFO - Camera initialized successfully
+2025-07-28 10:14:13,882 - INFO - Detected medicine box ID 1 (1/8)
+2025-07-28 10:14:14,447 - INFO - Detected medicine box ID 3 (2/8)
+2025-07-28 10:14:24,620 - INFO - Detected medicine box ID 4 (3/8)
+2025-07-28 10:14:34,403 - INFO - Detected medicine box ID 5 (4/8)
+2025-07-28 10:14:47,112 - INFO - Detected medicine box ID 7 (5/8)
+2025-07-28 10:15:02,807 - INFO - Detected medicine box ID 9 (6/8)
+2025-07-28 10:15:19,684 - INFO - Detected medicine box ID 15 (7/8)
+2025-07-28 10:15:23,398 - INFO - Detected medicine box ID 16 (8/8)
+2025-07-28 10:15:23,400 - INFO - Detection completed: 8/8
+2025-07-28 10:15:23,484 - INFO - Received message: {"type": "result", "complete": true, "detected": 8, "expected": 8, "timestamp": "2025-07-28T10:15:23.400044"}
+2025-07-28 10:15:23,699 - INFO - Detection loop ended

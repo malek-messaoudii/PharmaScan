@@ -1,0 +1,10 @@
+2025-08-14 11:35:37,110 - INFO - Scanner thread started
+2025-08-14 11:35:37,122 - INFO - MQTT thread started
+2025-08-14 11:35:37,274 - INFO - MQTT client started successfully
+2025-08-14 11:35:37,278 - ERROR - MQTT client failed to connect
+2025-08-14 11:35:37,357 - INFO - Connected to MQTT broker
+2025-08-14 11:35:41,675 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-08-14 11:35:41,678 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-08-14 11:35:42,783 - INFO - Quantity 8 stored in Firebase
+2025-08-14 11:35:42,784 - INFO - Detection started for expectedCount=8
+2025-08-14 11:35:44,347 - INFO - Connected to MQTT broker successfully

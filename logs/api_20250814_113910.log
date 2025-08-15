@@ -1,0 +1,12 @@
+2025-08-14 11:39:14,303 - INFO - Scanner thread started
+2025-08-14 11:39:14,307 - INFO - MQTT thread started
+2025-08-14 11:39:14,509 - INFO - MQTT client started successfully
+2025-08-14 11:39:14,509 - ERROR - MQTT client failed to connect
+2025-08-14 11:39:14,610 - INFO - Connected to MQTT broker
+2025-08-14 11:39:14,712 - ERROR - MQTT connection failed with code 5
+2025-08-14 11:39:14,712 - INFO - Stopping PharmaScanner...
+2025-08-14 11:39:15,019 - INFO - PharmaScanner stopped successfully
+2025-08-14 11:39:55,576 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-08-14 11:39:55,578 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-08-14 11:39:56,280 - INFO - Quantity 8 stored in Firebase
+2025-08-14 11:39:56,281 - INFO - Detection started for expectedCount=8

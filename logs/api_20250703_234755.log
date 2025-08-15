@@ -1,0 +1,14 @@
+2025-07-03 23:47:57,839 - INFO - Connected to MQTT broker
+2025-07-03 23:47:57,841 - INFO - Connected to MQTT broker
+2025-07-03 23:48:03,864 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-03 23:48:04,817 - INFO - Quantity 4 stored in Firebase
+2025-07-03 23:48:35,890 - INFO - New detection: medicine_box, total: 1
+2025-07-03 23:48:35,891 - INFO - Status: 1/4
+2025-07-03 23:48:36,069 - INFO - New detection: medicine_box, total: 2
+2025-07-03 23:48:36,070 - INFO - Status: 2/4
+2025-07-03 23:48:36,225 - INFO - New detection: medicine_box, total: 3
+2025-07-03 23:48:36,226 - INFO - Status: 3/4
+2025-07-03 23:48:36,368 - INFO - New detection: medicine_box, total: 4
+2025-07-03 23:48:36,369 - INFO - Status: 4/4
+2025-07-03 23:48:36,370 - INFO - Published result: Perfect match: 4/4 medicines detected (OK)
+2025-07-03 23:48:36,590 - INFO - Received message: {"type": "result", "message": "Perfect match: 4/4 medicines detected (OK)", "detectedCount": 4, "expectedCount": 4, "timestamp": "2025-07-03T23:48:36.370670"}

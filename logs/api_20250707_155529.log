@@ -1,0 +1,36 @@
+2025-07-07 15:55:32,595 - INFO - Scanner thread started
+2025-07-07 15:55:32,598 - INFO - MQTT thread started
+2025-07-07 15:55:32,990 - INFO - MQTT client started successfully
+2025-07-07 15:55:33,002 - ERROR - MQTT client failed to connect
+2025-07-07 15:55:33,032 - INFO - Connected to MQTT broker successfully
+2025-07-07 15:55:33,043 - INFO - Connected to MQTT broker
+2025-07-07 15:55:50,750 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-07 15:55:50,753 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-07 15:55:52,050 - INFO - Quantity 8 stored in Firebase
+2025-07-07 15:55:52,050 - INFO - Detection started for expectedCount=8
+2025-07-07 15:55:52,570 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-07 15:55:52,571 - INFO - Started detection for 8 medicine boxes
+2025-07-07 15:55:57,081 - INFO - Camera initialized successfully
+2025-07-07 15:56:01,011 - INFO - Detected medicine box ID 1 (1/8)
+2025-07-07 15:56:01,012 - INFO - Detected medicine box ID 2 (2/8)
+2025-07-07 15:56:01,013 - INFO - Detected medicine box ID 3 (3/8)
+2025-07-07 15:56:01,013 - INFO - Detected medicine box ID 4 (4/8)
+2025-07-07 15:56:01,013 - INFO - Detected medicine box ID 5 (5/8)
+2025-07-07 15:56:32,651 - INFO - Detected medicine box ID 7 (6/8)
+2025-07-07 15:56:32,760 - INFO - Detected medicine box ID 8 (7/8)
+2025-07-07 15:57:11,131 - INFO - Detected medicine box ID 18 (8/8)
+2025-07-07 15:57:11,132 - INFO - Detection completed: 8/8
+2025-07-07 15:57:11,416 - INFO - Received message: {"type": "result", "complete": true, "detected": 8, "expected": 8, "timestamp": "2025-07-07T15:57:11.132572"}
+2025-07-07 15:57:11,441 - INFO - Detection loop ended
+2025-07-07 15:57:17,508 - INFO - Quantity 8 stored in Firebase
+2025-07-07 15:57:17,509 - INFO - Detection started for expectedCount=8
+2025-07-07 15:57:17,717 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-07 15:57:17,717 - INFO - Started detection for 8 medicine boxes
+2025-07-07 15:57:22,134 - INFO - Camera initialized successfully
+2025-07-07 15:57:22,453 - INFO - Detected medicine box ID 4 (1/8)
+2025-07-07 15:57:23,106 - INFO - Detected medicine box ID 1 (2/8)
+2025-07-07 15:57:23,107 - INFO - Detected medicine box ID 18 (3/8)
+2025-07-07 15:57:49,699 - INFO - Detected medicine box ID 20 (4/8)
+2025-07-07 15:57:54,004 - INFO - Detected medicine box ID 21 (5/8)
+2025-07-07 15:57:54,004 - INFO - Detected medicine box ID 22 (6/8)
+2025-07-07 15:58:05,096 - INFO - Detected medicine box ID 23 (7/8)

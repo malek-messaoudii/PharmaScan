@@ -1,0 +1,57 @@
+2025-07-07 15:51:16,184 - INFO - Scanner thread started
+2025-07-07 15:51:16,188 - INFO - MQTT thread started
+2025-07-07 15:51:16,512 - ERROR - MQTT client failed to connect
+2025-07-07 15:51:16,536 - INFO - MQTT client started successfully
+2025-07-07 15:51:16,696 - INFO - Connected to MQTT broker successfully
+2025-07-07 15:51:16,697 - ERROR - Failed to connect with code 5
+2025-07-07 15:51:18,073 - INFO - Connected to MQTT broker
+2025-07-07 15:51:24,236 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-07 15:51:24,237 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-07 15:51:25,814 - INFO - Quantity 8 stored in Firebase
+2025-07-07 15:51:25,815 - INFO - Detection started for expectedCount=8
+2025-07-07 15:51:26,429 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-07 15:51:26,431 - INFO - Started detection for 8 medicine boxes
+2025-07-07 15:51:31,021 - INFO - Camera initialized successfully
+2025-07-07 15:51:34,861 - INFO - Detected medicine box ID 2 (1/8)
+2025-07-07 15:51:39,790 - INFO - Detected medicine box ID 1 (2/8)
+2025-07-07 15:51:40,993 - INFO - Detected medicine box ID 3 (3/8)
+2025-07-07 15:52:00,587 - INFO - Detected medicine box ID 5 (4/8)
+2025-07-07 15:52:02,379 - INFO - Detected medicine box ID 7 (5/8)
+2025-07-07 15:52:12,285 - INFO - Detected medicine box ID 10 (6/8)
+2025-07-07 15:52:32,570 - INFO - Detected medicine box ID 12 (7/8)
+2025-07-07 15:52:33,169 - INFO - Detected medicine box ID 13 (8/8)
+2025-07-07 15:52:33,171 - INFO - Detection completed: 8/8
+2025-07-07 15:52:33,470 - INFO - Detection loop ended
+2025-07-07 15:52:33,500 - INFO - Received message: {"type": "result", "complete": true, "detected": 8, "expected": 8, "timestamp": "2025-07-07T15:52:33.171696"}
+2025-07-07 15:52:48,163 - INFO - Quantity 8 stored in Firebase
+2025-07-07 15:52:48,163 - INFO - Detection started for expectedCount=8
+2025-07-07 15:52:48,285 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-07 15:52:48,286 - INFO - Started detection for 8 medicine boxes
+2025-07-07 15:52:52,635 - INFO - Camera initialized successfully
+2025-07-07 15:52:59,901 - INFO - Detected medicine box ID 14 (1/8)
+2025-07-07 15:53:01,900 - INFO - Detected medicine box ID 15 (2/8)
+2025-07-07 15:53:02,020 - INFO - Detected medicine box ID 19 (3/8)
+2025-07-07 15:53:02,302 - INFO - Detected medicine box ID 17 (4/8)
+2025-07-07 15:53:05,397 - INFO - Detected medicine box ID 21 (5/8)
+2025-07-07 15:53:15,014 - INFO - Detected medicine box ID 23 (6/8)
+2025-07-07 15:53:20,303 - INFO - Detected medicine box ID 25 (7/8)
+2025-07-07 15:53:24,495 - INFO - Detected medicine box ID 27 (8/8)
+2025-07-07 15:53:24,497 - INFO - Detection completed: 8/8
+2025-07-07 15:53:24,794 - INFO - Detection loop ended
+2025-07-07 15:53:25,547 - INFO - Received message: {"type": "result", "complete": true, "detected": 8, "expected": 8, "timestamp": "2025-07-07T15:53:24.497141"}
+2025-07-07 15:53:30,437 - INFO - Quantity 8 stored in Firebase
+2025-07-07 15:53:30,437 - INFO - Detection started for expectedCount=8
+2025-07-07 15:53:31,147 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-07-07 15:53:31,148 - INFO - Started detection for 8 medicine boxes
+2025-07-07 15:53:35,478 - INFO - Camera initialized successfully
+2025-07-07 15:53:35,691 - INFO - Detected medicine box ID 15 (1/8)
+2025-07-07 15:53:35,692 - INFO - Detected medicine box ID 21 (2/8)
+2025-07-07 15:53:35,692 - INFO - Detected medicine box ID 19 (3/8)
+2025-07-07 15:53:35,693 - INFO - Detected medicine box ID 25 (4/8)
+2025-07-07 15:53:35,693 - INFO - Detected medicine box ID 27 (5/8)
+2025-07-07 15:53:35,842 - INFO - Detected medicine box ID 28 (6/8)
+2025-07-07 15:53:56,152 - INFO - Detected medicine box ID 29 (7/8)
+2025-07-07 15:54:08,761 - INFO - Detected medicine box ID 30 (8/8)
+2025-07-07 15:54:08,762 - INFO - Detection completed: 8/8
+2025-07-07 15:54:09,069 - INFO - Detection loop ended
+2025-07-07 15:54:09,174 - INFO - Received message: {"type": "result", "complete": true, "detected": 8, "expected": 8, "timestamp": "2025-07-07T15:54:08.762213"}

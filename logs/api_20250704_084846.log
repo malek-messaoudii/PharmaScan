@@ -1,0 +1,20 @@
+2025-07-04 08:49:12,256 - INFO - Scanner thread started
+2025-07-04 08:49:12,259 - INFO - MQTT thread started
+2025-07-04 08:49:12,428 - ERROR - MQTT client failed to connect
+2025-07-04 08:49:12,528 - INFO - Connected to MQTT broker
+2025-07-04 08:49:16,011 - INFO - Connected to MQTT broker
+2025-07-04 08:49:17,237 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-04 08:49:17,239 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-04 08:49:18,470 - INFO - Quantity 4 stored in Firebase
+2025-07-04 08:49:18,471 - INFO - Detection started for expectedCount=4
+2025-07-04 08:49:52,377 - INFO - New detection: medicine_box, total: 1
+2025-07-04 08:49:52,379 - INFO - Status: 1/4
+2025-07-04 08:50:00,010 - INFO - New detection: medicine_box, total: 2
+2025-07-04 08:50:00,011 - INFO - Status: 2/4
+2025-07-04 08:50:03,267 - INFO - New detection: medicine_box, total: 3
+2025-07-04 08:50:03,267 - INFO - Status: 3/4
+2025-07-04 08:50:05,008 - INFO - New detection: medicine_box, total: 4
+2025-07-04 08:50:05,009 - INFO - Status: 4/4
+2025-07-04 08:50:05,009 - INFO - Published result: Perfect match: 4/4 medicine boxes detected (OK)
+2025-07-04 08:50:05,267 - INFO - Received message: {"type": "result", "message": "Perfect match: 4/4 medicine boxes detected (OK)", "detectedCount": 4, "expectedCount": 4, "timestamp": "2025-07-04T08:50:05.009454"}
+2025-07-04 08:50:05,327 - INFO - Camera released and windows closed

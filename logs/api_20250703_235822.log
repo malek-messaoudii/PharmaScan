@@ -1,0 +1,19 @@
+2025-07-03 23:58:25,648 - INFO - Scanner thread started
+2025-07-03 23:58:25,651 - INFO - MQTT thread started
+2025-07-03 23:58:25,759 - ERROR - MQTT client failed to connect
+2025-07-03 23:58:25,822 - INFO - Connected to MQTT broker
+2025-07-03 23:58:25,842 - INFO - Connected to MQTT broker
+2025-07-03 23:58:30,563 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-03 23:58:30,686 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-03 23:58:31,676 - INFO - Quantity 4 stored in Firebase
+2025-07-03 23:58:31,677 - INFO - Detection started for expectedCount=4
+2025-07-03 23:59:07,266 - INFO - New detection: medicine_box, total: 1
+2025-07-03 23:59:07,267 - INFO - Status: 1/4
+2025-07-03 23:59:07,546 - INFO - New detection: medicine_box, total: 2
+2025-07-03 23:59:07,547 - INFO - Status: 2/4
+2025-07-03 23:59:07,710 - INFO - New detection: medicine_box, total: 3
+2025-07-03 23:59:07,711 - INFO - Status: 3/4
+2025-07-03 23:59:07,851 - INFO - New detection: medicine_box, total: 4
+2025-07-03 23:59:07,851 - INFO - Status: 4/4
+2025-07-03 23:59:07,852 - INFO - Published result: Perfect match: 4/4 medicines detected (OK)
+2025-07-03 23:59:08,236 - INFO - Received message: {"type": "result", "message": "Perfect match: 4/4 medicines detected (OK)", "detectedCount": 4, "expectedCount": 4, "timestamp": "2025-07-03T23:59:07.852041"}

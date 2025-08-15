@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+firebase-admin
+paho-mqtt
+opencv-python
+ultralytics
+numpy

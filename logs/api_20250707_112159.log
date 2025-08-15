@@ -1,0 +1,32 @@
+2025-07-07 11:22:03,863 - INFO - Scanner thread started
+2025-07-07 11:22:03,867 - INFO - MQTT thread started
+2025-07-07 11:22:03,974 - ERROR - MQTT client failed to connect
+2025-07-07 11:22:03,975 - INFO - MQTT client started successfully
+2025-07-07 11:22:04,011 - INFO - Connected to MQTT broker successfully
+2025-07-07 11:22:08,175 - INFO - Connected to MQTT broker
+2025-07-07 11:22:32,938 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-07 11:22:32,983 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-07 11:22:44,215 - DEBUG - Incremented Retry for (url='/token'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2025-07-07 11:22:46,416 - INFO - Quantity 4 stored in Firebase
+2025-07-07 11:22:46,417 - INFO - Detection started for expectedCount=4
+2025-07-07 11:22:46,549 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 4}
+2025-07-07 11:22:46,589 - INFO - Started detection for 4 medicine boxes
+2025-07-07 11:22:49,889 - INFO - Camera initialized successfully
+2025-07-07 11:23:38,877 - INFO - Detected medicine box ID 3 (1/4)
+2025-07-07 11:23:43,074 - INFO - Detected medicine box ID 4 (2/4)
+2025-07-07 11:23:49,037 - INFO - Detected medicine box ID 6 (3/4)
+2025-07-07 11:23:53,317 - INFO - Detected medicine box ID 7 (4/4)
+2025-07-07 11:23:53,319 - INFO - Detection completed: 4/4
+2025-07-07 11:23:53,987 - INFO - Received message: {"type": "result", "complete": true, "detected": 4, "expected": 4, "timestamp": "2025-07-07T11:23:53.319987"}
+2025-07-07 11:23:54,011 - INFO - Detection loop ended
+2025-07-07 11:35:29,678 - WARNING - Unexpected MQTT disconnection (rc: 7)
+2025-07-07 11:35:29,679 - INFO - Stopping PharmaScanner...
+2025-07-07 11:35:29,679 - INFO - PharmaScanner stopped successfully
+2025-07-07 11:35:30,877 - INFO - Connected to MQTT broker
+2025-07-07 11:39:05,509 - ERROR - Failed to connect with code 5
+2025-07-07 11:39:07,575 - INFO - Connected to MQTT broker
+2025-07-07 11:54:05,107 - INFO - Connected to MQTT broker
+2025-07-07 12:14:19,332 - INFO - Connected to MQTT broker
+2025-07-07 14:40:17,093 - INFO - Connected to MQTT broker
+2025-07-07 15:00:33,794 - INFO - Connected to MQTT broker
+2025-07-07 15:37:43,877 - INFO - Connected to MQTT broker

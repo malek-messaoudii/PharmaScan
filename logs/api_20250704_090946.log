@@ -1,0 +1,5 @@
+2025-07-04 09:09:49,703 - INFO - Scanner thread started
+2025-07-04 09:09:49,706 - INFO - MQTT thread started
+2025-07-04 09:09:49,956 - ERROR - MQTT client failed to connect
+2025-07-04 09:09:50,055 - INFO - Connected to MQTT broker
+2025-07-04 09:09:54,237 - INFO - Connected to MQTT broker

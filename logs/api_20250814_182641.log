@@ -1,0 +1,17 @@
+2025-08-14 18:26:45,825 - INFO - Scanner thread started
+2025-08-14 18:26:45,832 - INFO - MQTT thread started
+2025-08-14 18:26:46,097 - INFO - MQTT client started successfully
+2025-08-14 18:26:46,098 - ERROR - MQTT client failed to connect
+2025-08-14 18:26:46,257 - INFO - Connected to MQTT broker successfully
+2025-08-14 18:26:50,423 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-08-14 18:26:50,426 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-08-14 18:26:51,434 - INFO - Quantity 8 stored in Firebase
+2025-08-14 18:26:51,435 - ERROR - MQTT client not connected
+2025-08-14 18:26:51,435 - ERROR - Erreur: 503: Client MQTT non connecté
+2025-08-14 18:26:52,337 - INFO - Connected to MQTT broker
+2025-08-14 18:27:08,044 - INFO - Quantity 8 stored in Firebase
+2025-08-14 18:27:08,046 - INFO - Detection started for expectedCount=8
+2025-08-14 18:27:08,463 - DEBUG - Received MQTT message: {'action': 'start', 'expectedCount': 8}
+2025-08-14 18:27:08,463 - INFO - Started detection for 8 medicine boxes
+2025-08-14 18:27:08,476 - ERROR - Failed to open camera
+2025-08-14 18:27:08,476 - ERROR - Cannot start detection without camera

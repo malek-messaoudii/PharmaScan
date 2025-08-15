@@ -1,0 +1,14 @@
+2025-07-04 09:38:07,006 - INFO - Scanner thread started
+2025-07-04 09:38:07,010 - INFO - MQTT thread started
+2025-07-04 09:38:07,167 - INFO - PharmaScanner started successfully
+2025-07-04 09:38:07,167 - ERROR - MQTT client failed to connect
+2025-07-04 09:38:07,280 - INFO - Connected to MQTT broker successfully
+2025-07-04 09:38:07,281 - INFO - Connected to MQTT broker
+2025-07-04 09:38:14,380 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-04 09:38:14,382 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-04 09:38:15,666 - INFO - Quantity 4 stored in Firebase
+2025-07-04 09:38:15,667 - INFO - Detection started for expectedCount=4
+2025-07-04 09:38:15,869 - DEBUG - Received message on pharmascan/control: {'action': 'start', 'expectedCount': 4}
+2025-07-04 09:38:15,869 - INFO - Started detection with expected count: 4
+2025-07-04 09:38:17,528 - INFO - Camera successfully initialized on index 0
+2025-07-04 09:38:17,529 - INFO - Starting detection loop...

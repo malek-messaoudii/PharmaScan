@@ -1,0 +1,126 @@
+2025-07-04 09:01:43,271 - INFO - Scanner thread started
+2025-07-04 09:01:43,275 - INFO - MQTT thread started
+2025-07-04 09:01:43,350 - ERROR - MQTT client failed to connect
+2025-07-04 09:01:43,388 - INFO - Connected to MQTT broker
+2025-07-04 09:01:43,388 - ERROR - Failed to connect with code 5
+2025-07-04 09:01:47,540 - INFO - Connected to MQTT broker
+2025-07-04 09:01:50,312 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-07-04 09:01:50,314 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2025-07-04 09:01:51,274 - INFO - Quantity 4 stored in Firebase
+2025-07-04 09:01:51,275 - INFO - Detection started for expectedCount=4
+2025-07-04 09:02:15,136 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:15,928 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:16,080 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:16,264 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:16,703 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:16,990 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:17,133 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:17,555 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:17,832 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:17,968 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:18,250 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:18,389 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:18,527 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:18,669 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:18,953 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:19,230 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:19,509 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:19,793 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:19,939 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:20,080 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:20,368 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:20,791 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,118 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,274 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,418 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,561 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,710 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:23,866 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,015 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,160 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,305 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,447 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,583 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,722 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,859 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:24,995 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,139 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,275 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,412 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,547 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,683 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,812 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:25,951 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,085 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,227 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,366 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,502 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,633 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,767 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:26,905 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,054 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,193 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,336 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,476 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,614 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:27,893 - INFO - New detection: medicine_box, total: 1
+2025-07-04 09:02:27,894 - INFO - Status: 1/4
+2025-07-04 09:02:30,030 - INFO - New detection: medicine_box, total: 2
+2025-07-04 09:02:30,030 - INFO - Status: 2/4
+2025-07-04 09:02:31,189 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:31,333 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:31,473 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:31,619 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:31,754 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:31,894 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,030 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,169 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,308 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,445 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,582 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,727 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,861 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:32,998 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,141 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,285 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,424 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,563 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,710 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:33,876 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,025 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,176 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,323 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,472 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,617 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,768 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:34,909 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:35,054 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:35,197 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:35,348 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:35,494 - INFO - New detection: medicine_box, total: 3
+2025-07-04 09:02:35,494 - INFO - Status: 3/4
+2025-07-04 09:02:36,111 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:36,261 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:36,417 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:36,575 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:36,720 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:36,871 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,017 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,170 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,320 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,461 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,607 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,750 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:37,914 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,060 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,220 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,365 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,525 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,666 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,808 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:38,980 - WARNING - No valid tracking IDs available in this frame
+2025-07-04 09:02:39,137 - INFO - New detection: medicine_box, total: 4
+2025-07-04 09:02:39,138 - INFO - Status: 4/4
+2025-07-04 09:02:39,138 - INFO - Published result: Perfect match: 4/4 medicine boxes detected (OK)
+2025-07-04 09:02:39,252 - INFO - Received message: {"type": "result", "message": "Perfect match: 4/4 medicine boxes detected (OK)", "detectedCount": 4, "expectedCount": 4, "timestamp": "2025-07-04T09:02:39.138260"}
+2025-07-04 09:02:39,472 - INFO - Camera released and windows closed
