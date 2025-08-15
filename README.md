@@ -27,6 +27,6 @@ PharmaScan isn’t just about image recognition — it’s built to operate in r
    
     When the quantity is reached:
 
-         * The system automatically stops the camera stream.
+     * The system automatically stops the camera stream.
 
-         * An MQTT message is published to confirm completion.
+     * An MQTT message is published to confirm completion.
